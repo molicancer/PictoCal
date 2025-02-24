@@ -11,7 +11,7 @@ import SwiftUI
 struct PictoCalApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CalendarView()
         }
     }
 }
